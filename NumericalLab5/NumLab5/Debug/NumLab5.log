@@ -1,0 +1,4 @@
+﻿  Lab5.cpp
+C:\Users\Barzi\source\repos\NumLab5\NumLab5\Lab5.cpp(14,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Barzi\source\repos\NumLab5\NumLab5\Lab5.cpp(29,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  NumLab5.vcxproj -> C:\Users\Barzi\source\repos\NumLab5\Debug\NumLab5.exe

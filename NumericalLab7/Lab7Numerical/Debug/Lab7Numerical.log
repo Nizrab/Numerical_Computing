@@ -1,0 +1,5 @@
+﻿  lab7.cpp
+C:\Users\Barzi\source\repos\Lab7Numerical\Lab7Numerical\lab7.cpp(96,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Barzi\source\repos\Lab7Numerical\Lab7Numerical\lab7.cpp(100,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Barzi\source\repos\Lab7Numerical\Lab7Numerical\lab7.cpp(102,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab7Numerical.vcxproj -> C:\Users\Barzi\source\repos\Lab7Numerical\Debug\Lab7Numerical.exe

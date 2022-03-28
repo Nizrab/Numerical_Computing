@@ -1,0 +1,4 @@
+﻿  math.cpp
+C:\Users\Barzi\source\repos\NumLab3\NumLab3\math.cpp(59,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Barzi\source\repos\NumLab3\NumLab3\math.cpp(60,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  NumLab3.vcxproj -> C:\Users\Barzi\source\repos\NumLab3\Debug\NumLab3.exe

@@ -1,0 +1,5 @@
+C:/Users/Barzi/source/repos/nermericalLab1/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Barzi/source/repos/nermericalLab1/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Barzi/source/repos/nermericalLab1/out/build/x64-Debug (default)/nermericalLab1/CMakeFiles/rebuild_cache.dir
+C:/Users/Barzi/source/repos/nermericalLab1/out/build/x64-Debug (default)/nermericalLab1/CMakeFiles/nermericalLab1.dir
+C:/Users/Barzi/source/repos/nermericalLab1/out/build/x64-Debug (default)/nermericalLab1/CMakeFiles/edit_cache.dir
